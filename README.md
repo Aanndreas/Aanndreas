@@ -1,13 +1,16 @@
 # Hello 👋, about me! 
 
-- 🔭 I’m currently enrolled on MedieInstitutet´s educational program "Front End Developer". 
-- 🌱 I’m currently learning HTML, CSS, Javascript and Git/hub amongst other things.
+- 🔭 I’m currently studying Front End Development 
+- 🌱 I’m currently learning HTML, CSS, Javascript and Git/hub
+- 👯 I’m open for collaborations on anything that is educational 
+- 📫 How to reach me: andreas.lundin@medieinstitutet.se || https://www.linkedin.com/in/andreas-lundin-76927b96/
+- ⚡ Fun fact: My hyper focus is both my friend and foe
 
 <!--
-- 👯 I’m looking to collaborate on ...
+-
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 --> 
